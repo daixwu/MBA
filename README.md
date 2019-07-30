@@ -9,3 +9,9 @@
 ## 英语
 
 [阅读与写作词汇篇](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E4%B8%8E%E5%86%99%E4%BD%9C%E8%AF%8D%E6%B1%87%E7%AF%87.md)
+
+## 综合
+
+### 数学
+
+![初数考题分布](notes/composite/images/初数.jpg)
