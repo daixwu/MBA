@@ -22,6 +22,7 @@
 
 ### 数学
 
+
 [实数、绝对值、平均值](https://github.com/daixwu/MBA/blob/master/notes/composite/algebra/%E5%AE%9E%E6%95%B0%E3%80%81%E7%BB%9D%E5%AF%B9%E5%80%BC%E3%80%81%E5%B9%B3%E5%9D%87%E5%80%BC.md)
 
 [整式、分式](https://github.com/daixwu/MBA/blob/master/notes/composite/algebra/整式、分式.md)
