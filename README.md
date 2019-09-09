@@ -10,18 +10,29 @@
 
 ## 英语
 
+### 英语语法
+
 [考研英语二语法篇](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E8%AF%AD%E6%B3%95%E7%AF%87.md)
+
+### 英语词汇
 
 [英语单词记忆](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%AE%B0%E5%BF%86.md)
 
-[考研英语二阅读入门基本功](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB%E6%8A%80%E5%B7%A7%E7%AF%87.md)
-
 [阅读与写作词汇篇](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E4%B8%8E%E5%86%99%E4%BD%9C%E8%AF%8D%E6%B1%87%E7%AF%87.md)
+
+### 阅读理解
+
+[阅读解题技巧](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB%E6%8A%80%E5%B7%A7%E7%AF%87.md)
+
+阅读题型归类之一 细节题
+
+阅读题型归类之二 是非判断题
+
+### 英语写作
 
 ## 综合
 
 ### 数学
-
 
 [实数、绝对值、平均值](https://github.com/daixwu/MBA/blob/master/notes/composite/algebra/%E5%AE%9E%E6%95%B0%E3%80%81%E7%BB%9D%E5%AF%B9%E5%80%BC%E3%80%81%E5%B9%B3%E5%9D%87%E5%80%BC.md)
 
