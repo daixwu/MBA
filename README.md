@@ -24,9 +24,9 @@
 
 [阅读解题技巧](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB%E6%8A%80%E5%B7%A7%E7%AF%87.md)
 
-阅读题型归类之一 细节题
+[阅读题型归类之一 细节题](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E9%A2%98%E5%9E%8B%E5%BD%92%E7%B1%BB%E4%B9%8B%E4%B8%80%E7%BB%86%E8%8A%82%E9%A2%98.md)
 
-阅读题型归类之二 是非判断题
+[阅读题型归类之二 是非判断题](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E9%A2%98%E5%9E%8B%E5%BD%92%E7%B1%BB%E4%B9%8B%E4%BA%8C%E6%98%AF%E9%9D%9E%E5%88%A4%E6%96%AD%E9%A2%98.md)
 
 ### 英语写作
 
