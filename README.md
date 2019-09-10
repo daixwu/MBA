@@ -28,6 +28,8 @@
 
 [阅读题型归类之二 是非判断题](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E9%A2%98%E5%9E%8B%E5%BD%92%E7%B1%BB%E4%B9%8B%E4%BA%8C%E6%98%AF%E9%9D%9E%E5%88%A4%E6%96%AD%E9%A2%98.md)
 
+[阅读题型归类之三 例证题](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E9%A2%98%E5%9E%8B%E5%BD%92%E7%B1%BB%E4%B9%8B%E4%B8%89%20%E4%BE%8B%E8%AF%81%E9%A2%98.md)
+
 ### 英语写作
 
 ## 综合
