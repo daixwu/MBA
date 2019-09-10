@@ -34,14 +34,25 @@
 
 ### 数学
 
-[实数、绝对值、平均值](https://github.com/daixwu/MBA/blob/master/notes/composite/algebra/%E5%AE%9E%E6%95%B0%E3%80%81%E7%BB%9D%E5%AF%B9%E5%80%BC%E3%80%81%E5%B9%B3%E5%9D%87%E5%80%BC.md)
+![初数考题分布](notes/composite/algebra/images/初数.jpg)
 
-[整式、分式](https://github.com/daixwu/MBA/blob/master/notes/composite/algebra/整式、分式.md)
+
+
+[整数、有理数、实数](https://github.com/daixwu/MBA/blob/master/notes/composite/integer/%E6%95%B4%E6%95%B0%E3%80%81%E6%9C%89%E7%90%86%E6%95%B0%E3%80%81%E5%AE%9E%E6%95%B0.md)
+
+[整式、分式](https://github.com/daixwu/MBA/blob/master/notes/composite/integral/%E6%95%B4%E5%BC%8F%E3%80%81%E5%88%86%E5%BC%8F.md)
+
+
+
+[实数、绝对值、平均值](https://github.com/daixwu/MBA/blob/master/notes/composite/algebra/%E5%AE%9E%E6%95%B0%E3%80%81%E7%BB%9D%E5%AF%B9%E5%80%BC%E3%80%81%E5%B9%B3%E5%9D%87%E5%80%BC.md)
 
 [方程、不等式和函数](https://github.com/daixwu/MBA/blob/master/notes/composite/algebra/方程、不等式和函数.md)
 
 [平面几何与立体几何](https://github.com/daixwu/MBA/blob/master/notes/composite/geometry/%E5%B9%B3%E9%9D%A2%E5%87%A0%E4%BD%95%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95.md)
 
+
+### 逻辑
+
 [联言 选言与推理考题](https://github.com/daixwu/MBA/blob/master/notes/composite/logic/%E8%81%94%E8%A8%80%E3%80%81%E9%80%89%E8%A8%80%E4%B8%8E%E6%8E%A8%E7%90%86%E8%80%83%E9%A2%98.md)
 
-![初数考题分布](notes/composite/algebra/images/初数.jpg)
+
