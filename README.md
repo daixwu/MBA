@@ -30,6 +30,10 @@
 
 [阅读题型归类之三 例证题](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E9%A2%98%E5%9E%8B%E5%BD%92%E7%B1%BB%E4%B9%8B%E4%B8%89%20%E4%BE%8B%E8%AF%81%E9%A2%98.md)
 
+[阅读题型归类之四 释义题](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E9%A2%98%E5%9E%8B%E5%BD%92%E7%B1%BB%E4%B9%8B%E5%9B%9B%20%E9%87%8A%E4%B9%89%E9%A2%98.md)
+
+[阅读题型归类之五 态度题](https://github.com/daixwu/MBA/blob/master/notes/english/%E9%98%85%E8%AF%BB%E9%A2%98%E5%9E%8B%E5%BD%92%E7%B1%BB%E4%B9%8B%E4%BA%94%E6%80%81%E5%BA%A6%E9%A2%98.md)
+
 ### 英语写作
 
 ## 综合
