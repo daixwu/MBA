@@ -58,6 +58,14 @@
 
 ### 英语写作
 
+[英语写作篇一小作文](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E5%B0%8F%E4%BD%9C%E6%96%87%E5%86%99%E4%BD%9C.md)
+
+[英语小作文模板笔记](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E5%B0%8F%E4%BD%9C%E6%96%87%E6%A8%A1%E6%9D%BF%E7%AC%94%E8%AE%B0.md)
+
+[英语写作篇——大作文](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E5%A4%A7%E4%BD%9C%E6%96%87%E5%86%99%E4%BD%9C.md)
+
+[英语大作文模板笔记](https://github.com/daixwu/MBA/blob/master/notes/english/%E8%8B%B1%E8%AF%AD%E5%A4%A7%E4%BD%9C%E6%96%87%E6%A8%A1%E6%9D%BF%E7%AC%94%E8%AE%B0.md)
+
 ## 综合
 
 ### 数学
@@ -77,6 +85,12 @@
 [概率统计初步](https://github.com/daixwu/MBA/blob/master/notes/composite/probability/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E5%88%9D%E6%AD%A5.md)
 
 ### 逻辑
+
+[形式逻辑](https://github.com/daixwu/MBA/blob/master/notes/composite/logic/形式逻辑.md)
+
+[AEIO和模态命题](https://github.com/daixwu/MBA/blob/master/notes/composite/logic/AEIO%E5%92%8C%E6%A8%A1%E6%80%81%E5%91%BD%E9%A2%98.md)
+
+[论证推理](https://github.com/daixwu/MBA/blob/master/notes/composite/logic/%E8%AE%BA%E8%AF%81%E6%8E%A8%E7%90%86.md)
 
 [联言 选言与推理考题](https://github.com/daixwu/MBA/blob/master/notes/composite/logic/%E8%81%94%E8%A8%80%E3%80%81%E9%80%89%E8%A8%80%E4%B8%8E%E6%8E%A8%E7%90%86%E8%80%83%E9%A2%98.md)
 
