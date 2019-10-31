@@ -78,9 +78,15 @@
 
 [函数、方程与不等式](https://github.com/daixwu/MBA/blob/master/notes/composite/parabola/%E5%87%BD%E6%95%B0%E3%80%81%E6%96%B9%E7%A8%8B%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F.md)
 
+[数列](https://github.com/daixwu/MBA/blob/master/notes/composite/sequence/%E6%95%B0%E5%88%97.md)
+
+[应用题](https://github.com/daixwu/MBA/blob/master/notes/composite/apply/%E5%BA%94%E7%94%A8%E9%A2%98.md)
+
 [平面几何与立体几何](https://github.com/daixwu/MBA/blob/master/notes/composite/geometry/%E5%B9%B3%E9%9D%A2%E5%87%A0%E4%BD%95%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95.md)
 
-[数列](https://github.com/daixwu/MBA/blob/master/notes/composite/sequence/%E6%95%B0%E5%88%97.md)
+[平面解析几何](https://github.com/daixwu/MBA/blob/master/notes/composite/analysis/%E5%B9%B3%E9%9D%A2%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95.md)
+
+[排列与组合](https://github.com/daixwu/MBA/blob/master/notes/composite/arrange/%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88.md)
 
 [概率统计初步](https://github.com/daixwu/MBA/blob/master/notes/composite/probability/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E5%88%9D%E6%AD%A5.md)
 
