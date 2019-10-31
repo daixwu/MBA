@@ -95,3 +95,7 @@
 [联言 选言与推理考题](https://github.com/daixwu/MBA/blob/master/notes/composite/logic/%E8%81%94%E8%A8%80%E3%80%81%E9%80%89%E8%A8%80%E4%B8%8E%E6%8E%A8%E7%90%86%E8%80%83%E9%A2%98.md)
 
 [削弱 支持与假设考题](https://github.com/daixwu/MBA/blob/master/notes/composite/logic/%E5%89%8A%E5%BC%B1%E3%80%81%E6%94%AF%E6%8C%81%E4%B8%8E%E5%81%87%E8%AE%BE%E8%80%83%E9%A2%98.md)
+
+### 写作
+
+[综合中文写作](https://github.com/daixwu/MBA/blob/master/notes/composite/writing/%E7%BB%BC%E5%90%88%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C.md)
